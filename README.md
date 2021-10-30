@@ -1,4 +1,4 @@
-![Logo]()
+![Logo](https://github.com/aqillakhamis/c-prog/blob/main/logo/poster_course_outline.png)
 
 -----------------------------------------------------
 
