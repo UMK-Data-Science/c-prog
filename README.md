@@ -15,8 +15,7 @@ This repositories contains student activities on Fundamental of Programming.
 * Functions
 
 ## Tutorial Answer by Week
-- [x] Week 3
-- [ ] Week 4
+- [x] Week 4
 - [ ] Week 5
 - [ ] Week 6
 - [ ] Week 7
