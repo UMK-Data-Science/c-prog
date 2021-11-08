@@ -4,10 +4,10 @@
 
 # Fundamental of Programming
 
-## Course Description 
-This repositories contains student activities on Fundamental of Programming. 
+## Course Description
+This repositories contains student activities on Fundamental of Programming.
 
-## Course Topics 
+## Course Topics
 * Introduction to C
 * Basic Operators
 * Conditional Statements
@@ -16,19 +16,13 @@ This repositories contains student activities on Fundamental of Programming.
 
 ## Tutorial Answer by Week
 - [x] Week 4
-- [ ] Week 5
+- [x] Week 5
 - [ ] Week 6
 - [ ] Week 7
 - [ ] Week 8
-- [ ] Week 9 
-- [ ] Week 10 
-- [ ] Week 11 
-- [ ] Week 12 
+- [ ] Week 9
+- [ ] Week 10
+- [ ] Week 11
+- [ ] Week 12
 - [ ] Week 13
 - [ ] Week 14
-
-
-
-
-
-
