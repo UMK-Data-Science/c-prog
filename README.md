@@ -18,9 +18,9 @@ This repositories contains student activities on Fundamental of Programming.
 - [x] Week 4
 - [x] Week 5
 - [x] Week 6
-- [ ] Week 7
-- [ ] Week 8
-- [ ] Week 9
+- [x] Week 7
+- [x] Week 8
+- [x] Week 9
 - [ ] Week 10
 - [ ] Week 11
 - [ ] Week 12
