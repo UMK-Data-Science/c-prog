@@ -26,7 +26,7 @@ int main()
             {
                 printf("Gender: Female \n");
                 printf("Package: Essential \n");
-                fee = essential * 0.25;
+                fee = essential - (essential * 0.25);
                 printf("Fee: RM %.2f\n", fee);
             } 
 
@@ -34,7 +34,7 @@ int main()
             {
                 printf("Gender: Female \n");
                 printf("Package: Prestige \n");
-                fee = prestige * 0.25;
+                fee = prestige - (prestige * 0.25);
                 printf("Fee: RM %.2f\n", fee);
             }
 
