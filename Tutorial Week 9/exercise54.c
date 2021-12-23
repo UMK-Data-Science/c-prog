@@ -20,7 +20,7 @@ int main()
         if (gender == 'F')
         {
             printf("Enter Package [1: Essential, 2: Prestige]: ");
-            scanf("%d", &package);
+            scanf(" %d", &package);
 
             if (package == 1)
             {
@@ -45,7 +45,7 @@ int main()
             
         }
         printf("Do you want to continue?[1 = Yes, 0 = No]: ");
-        scanf("%d", &selection);
+        scanf(" %d", &selection);
 
         printf("\n");
 
