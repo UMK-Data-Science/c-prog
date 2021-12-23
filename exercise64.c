@@ -1,5 +1,5 @@
 //documentation section 
-/* looping and selection exercise*/
+/* looping and selection exercise tutorial*/
 
 //pre-processor section
 #include<stdio.h>

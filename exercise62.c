@@ -1,5 +1,5 @@
 //documentation section 
-/* looping program exercise*/
+/* looping program exercise tutorial*/
 
 //pre-processor section 
 #include<stdio.h>

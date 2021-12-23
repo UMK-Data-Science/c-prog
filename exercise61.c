@@ -1,5 +1,5 @@
 //documentation section
-/*to calculate APC in the program*/
+/*to calculate APC in the program tutorial*/
 
 //pre-processor section
 #include<stdio.h>
